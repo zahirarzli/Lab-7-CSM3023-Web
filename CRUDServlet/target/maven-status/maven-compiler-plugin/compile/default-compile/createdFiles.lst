@@ -1,0 +1,7 @@
+com\controller\profileServlet.class
+com\dao\UserDao.class
+com\controller\UserController.class
+com\model\User.class
+com\util\DBConnection.class
+com\mycompany\crudservlet\JakartaRestConfiguration.class
+com\mycompany\crudservlet\resources\JakartaEE10Resource.class
